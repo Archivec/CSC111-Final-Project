@@ -4,6 +4,9 @@ This file contains all game objects we will use to implement the treasure hunt g
 
 
 class object:
+    """
+    An object class
+    """
     type: str
     position: tuple()
 
