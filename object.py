@@ -9,3 +9,6 @@ class object:
 
 def fname(arg):
     pass
+
+def test(arg):
+    pass
