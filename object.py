@@ -15,3 +15,6 @@ def test(arg):
 
 def get_type(self) -> str:
     return self.type
+
+def get_position(self) -> tuple:
+    return self.tuple
