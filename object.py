@@ -12,3 +12,6 @@ def fname(arg):
 
 def test(arg):
     pass
+
+def get_type(self) -> str:
+    return self.type
